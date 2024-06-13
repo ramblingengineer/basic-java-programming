@@ -42,3 +42,6 @@ Above instructions contains:
   - Transfer to a bowl
   - Put data into → it Sugar and Lemon Juice
 
+## Tutorial Video
+
+- [YouTube](https://youtu.be/8IsYWASu07E)
